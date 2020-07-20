@@ -24,10 +24,30 @@ A tactical role-playing (TRPG) and turn-based strategy (TBS) game project.
 - Spells/Skills.
 - Equipments.
 
-## Class:
+### Class:
 - Define attributes gain rate.
 - Initial spell.
 - Natural spell tree: Acquiring leveling-up.
 - Purchase spell tree: Acquiring buying.
 - Initial Equipments.
 - Initial HP/SP.
+
+### Lvl/Exp:
+- Earn Exp by killing monsters.
+- Earn attributes and spell points when level up.
+
+### Attributes:
+- Str: Increase physical damages.
+- Agi: Increase evasion rate.
+- Int: Increase Magic Damage.
+- Acc: Increase hit chance.
+- Luck: Increase critical chance (maybe increase loot chance)
+- Vit: Increase HP.
+
+### Spells/Skills characteristic:
+- Target -> Character/Monster/Board Local.
+- SP cost.
+- Damage
+- Buff or Debuff.
+- Other effects.
+
